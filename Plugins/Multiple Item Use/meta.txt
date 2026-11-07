@@ -1,0 +1,5 @@
+Name       = Multiple Item Use
+Version = 1.0.2
+Essentials = 21.1,21.99,22
+Website    = I dont have one
+Credits    = Nononever
